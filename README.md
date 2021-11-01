@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a current student at UC Berkeley studying secure systems architecture.  This page is currently under construction so check back later!
 
 <!--
 **wmullen/wmullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
